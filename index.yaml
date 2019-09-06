@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  my-app:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: 2019-09-06T11:27:47.242683377Z
+    description: A Helm chart for Kubernetes
+    digest: 04fefd283fe18cf1aa9e4578601d46eaf443c61cd3610a4c2658386e339b3ffc
+    name: my-app
+    urls:
+    - https://dock-abhi.github.io/helm-chart/my-app-0.1.0.tgz
+    version: 0.1.0
+generated: 2019-09-06T11:27:47.24173697Z
